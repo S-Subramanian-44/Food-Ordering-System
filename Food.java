@@ -429,10 +429,3 @@ new Food().setVisible(true);
 });
 }
 }
-
-
-
-
-
-
-
