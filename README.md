@@ -4,7 +4,11 @@ This project is a simple food ordering system written in Java Swing. It allows u
 Features:
 
 1.Select items from a menu
+
 2.Specify the quantity of each item
+
 3.Calculate the total cost of the order
+
 4.Update balance
+
 5.Pay for order
